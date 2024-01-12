@@ -1,4 +1,4 @@
-# Linear-Regression-Prpjects-in-R
+# Linear-Regression-Projects-in-R
 
 Here are two projects which I have made using R programming language
 # Student performance predictor
